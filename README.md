@@ -1,1 +1,1 @@
-A content-driven blog platform using React and a headless CMS (WordPress), focusing on content structuring, mobile optimization, and performance improvements. Implemented features like trending posts, category filtering, and responsive design.
+A content-driven news platform using React and a headless CMS (WordPress), focusing on content structuring, mobile optimization, and performance improvements. Implemented features like trending posts, category filtering, and responsive design.
