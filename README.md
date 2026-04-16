@@ -9,7 +9,7 @@ State Management: React Context API / TanStack Query
 
 
 ## Architectural Diagram
-![Architectural Diagram](./frontend/src/assets/Architectural-Diagram.png)
+![Architectural Diagram](frontend/src/assets/Architectural-Diagram.png)
 
 ## UI Snapshot
-![Architectural Diagram](./frontend/src/assets/news-site.png)
+![Architectural Diagram](frontend/src/assets/news-site.png)
